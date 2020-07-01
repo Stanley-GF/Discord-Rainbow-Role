@@ -10,6 +10,6 @@ Like that :
  
  Step 1 : Open the software, direct download [**here**](https://github.com/Stanley-GF/Discord-Rainbow-Role/releases/download/1.0.0/Mabel_Rainbow_Role.rar)<br> 
  
- Step 2 : 
+ Step 2 : Enter the bot token here ![Bot login](https://cdn.discordapp.com/attachments/693930597155864606/727835962289160282/Capture-ConvertImage.png)
  
  Step 3 :
