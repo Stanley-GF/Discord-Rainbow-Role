@@ -8,7 +8,7 @@ Like that :
 
  # How ?
  
- Step 1 : 
+ Step 1 : Direct download Direct download [**here**](https://github.com/Stanley-GF/Discord-Rainbow-Role/releases/download/1.0.0/Mabel_Rainbow_Role.rar)<br> 
  
  Step 2 : 
  
