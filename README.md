@@ -10,6 +10,15 @@ Like that :
  
  Step 1 : Open the software, direct download [**here**](https://github.com/Stanley-GF/Discord-Rainbow-Role/releases/download/1.0.0/Mabel_Rainbow_Role.rar)<br> 
  
- Step 2 : Enter the bot token here ![Bot login](https://cdn.discordapp.com/attachments/693930597155864606/727835962289160282/Capture-ConvertImage.png)
+ Step 2 : Enter the bot token here 
  
- Step 3 :
+ ![Bot login](https://cdn.discordapp.com/attachments/693930597155864606/727835962289160282/Capture-ConvertImage.png)
+ 
+ 
+ Step 3 : Select the option 1
+ 
+ Step 4 : Enter the guild id 
+ 
+ Step 5 : Enter the role id 
+ 
+ Step 6 : Enjoy :)
