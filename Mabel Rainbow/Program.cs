@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -137,6 +137,11 @@ namespace Mabel_Rainbow
                 {
                     foreach (SocketRole role in guild.Roles)
                     {
+
+                        if (role.Id == roleid)
+                        { 
+
+
                         try
                         {
                             //wait 30 second and can start :) 
@@ -178,6 +183,8 @@ namespace Mabel_Rainbow
                         catch (Exception)
                         {
 
+
+                        }
 
                         }
 
